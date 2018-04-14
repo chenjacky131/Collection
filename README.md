@@ -15,12 +15,12 @@ li:after{content: '';position: absolute;left:100%;width:0;height: 2px;background
 li:hover:after,li.active:after{left: 0;width: 100%;}
 li:hover~li:after{left: 0;}
 </style>
-	<ul>
-		<li><a href="">1</a></li>
-		<li><a href="">2</a></li>
-		<li><a href="">3</a></li>
-		<li><a href="">4</a></li>
-		<li><a href="">5</a></li>
-	</ul>
+<ul>
+	<li><a href="">1</a></li>
+	<li><a href="">2</a></li>
+	<li><a href="">3</a></li>
+	<li><a href="">4</a></li>
+	<li><a href="">5</a></li>
+</ul>
 
 ````
