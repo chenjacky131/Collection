@@ -30,3 +30,6 @@ https://archive.org/details/ElTopo1970
 https://archive.org/details/La.montaa.sagrada..
 
 https://ia800100.us.archive.org/8/items/SantaSangre/Santa%20sangre.mp4
+
+工具链接
+https://developers.google.com/speed/pagespeed/insights/
