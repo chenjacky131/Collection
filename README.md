@@ -33,3 +33,6 @@ https://ia800100.us.archive.org/8/items/SantaSangre/Santa%20sangre.mp4
 
 工具链接
 https://developers.google.com/speed/pagespeed/insights/
+
+
+window安装node-sass失败，需要安装这两个模块node-gyp,windows-build-tools
