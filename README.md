@@ -36,3 +36,5 @@ https://developers.google.com/speed/pagespeed/insights/
 
 
 window安装node-sass失败，需要安装这两个模块node-gyp,windows-build-tools
+
+webstrom注册服务器地址：http://hb5.s.osidea.cc:1017
