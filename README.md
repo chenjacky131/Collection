@@ -7,9 +7,3 @@
 工具链接
 https://developers.google.com/speed/pagespeed/insights/
 
-
-window安装node-sass失败，需要安装这两个模块node-gyp,windows-build-tools
-
-油猴(Tampermonkey)是浏览器的脚本管理插件
-插件列表地址：https://greasyfork.org/zh-CN/scripts
-http://www.btrenren.com
