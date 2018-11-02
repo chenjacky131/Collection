@@ -4,6 +4,3 @@
 路由引入页面 component:resolve => require(['@/views/tradeStatus'], resolve)
 
 
-工具链接
-https://developers.google.com/speed/pagespeed/insights/
-
