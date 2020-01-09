@@ -8,3 +8,7 @@ websocket服务器 wss://echo.websocket.org/
 2. 聊天室(bbw011)
 3. 开奖网(167kjw)
 4. 皇冠体育(bbw011)
+
+1. vue项目搭建
+2. node项目搭建，mondodb使用；node爬虫
+3. python爬虫
