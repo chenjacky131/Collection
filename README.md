@@ -1,4 +1,3 @@
 # Collection
 
-
-https://juejin.im/post/58f558efac502e006c3e5c97
+https://segmentfault.com/a/1190000013331105
